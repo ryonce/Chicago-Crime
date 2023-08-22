@@ -7,7 +7,7 @@
 ![image](Yearly.png)
 
 
-# Chicago Crime Data
+# Chicago Crime Data Dashboard
  
 ![image](Chicago.png)
 
