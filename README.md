@@ -1,3 +1,12 @@
+# Chicago Crime Data by District
+
+![image](District.png)
+
+# Chicago Crime Data Yearly
+
+![image](Yearly.png)
+
+
 # Chicago Crime Data
  
 ![image](Chicago.png)
